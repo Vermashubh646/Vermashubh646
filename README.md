@@ -4,7 +4,7 @@
   Building end-to-end intelligent systems. Specializing in Deep Learning architectures and MLOps.
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vermashubh646&label=Profile%20views&color=0e75b6&style=flat" alt="vermashubh646" /> </p>
+<p align="center"> <img src="https://github.com/Vermashubh646/Vermashubh646/blob/main/S.JPG" alt="Shubh Verma" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #0e75b6;" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +52,7 @@
         </a>
       </div>
       <p align="center">
-        ClipQuery is a multimodal search engine powered by <strong>Groq</strong>, <strong>Whisper v3</strong>strong>, and <strong>Llama Maverick</strong>strong> that indexes spoken words and visual scenes, enabling precise natural language queries for specific video moments.
+        ClipQuery is a multimodal search engine powered by <strong>Groq</strong>, <strong>Whisper v3</strong>, and <strong>Llama Maverick</strong> that indexes spoken words and visual scenes, enabling precise natural language queries for specific video moments.
       </p>
     </td>
   </tr>
